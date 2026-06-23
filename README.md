@@ -23,6 +23,8 @@ The selected model is **GLM-5.2** by **zai-org**. The aim of this project is to 
 - **Model Name:** GLM-5.2  
 - **Organization:** zai-org  
 - **Model Link:** https://huggingface.co/zai-org/GLM-5.2
+website link:https://mrkarthik386-jpg.github.io/glm-5.2-model-study/
+
 
 ---
 
